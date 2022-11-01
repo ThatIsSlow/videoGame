@@ -1,2 +1,3 @@
 # videoGame
  my game for class...
+I made this game in my intor to programming class at Bellarmine 2022
