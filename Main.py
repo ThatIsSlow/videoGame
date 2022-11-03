@@ -14,11 +14,7 @@
 # 4. make the mobs speed up and slow down
 # 5. add a points leaderboard
 
-#hello
-#hello
-#gnrsgbvnkjds
-#hiwghiugreoi
-# this is another test to see if things work
+
 
 
 
